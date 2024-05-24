@@ -1,0 +1,401 @@
+{
+  "NodeId": "/",
+  "Name": "",
+  "Type": 0,
+  "Child": [
+    {
+      "NodeId": "/Users/bytedance/Desktop/enemy",
+      "Name": "enemy",
+      "Type": 0,
+      "Child": [
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy1",
+          "Name": "enemy1",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy1/1092.png",
+              "Name": "1092.png",
+              "Type": 2,
+              "OffsetX": 256,
+              "OffsetY": 64
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy2",
+          "Name": "enemy2",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy2/1013.png",
+              "Name": "1013.png",
+              "Type": 2,
+              "OffsetX": 64,
+              "OffsetY": 0
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy3",
+          "Name": "enemy3",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy3/1014.png",
+              "Name": "1014.png",
+              "Type": 2,
+              "OffsetX": 448,
+              "OffsetY": 64
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy4",
+          "Name": "enemy4",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy4/1066.png",
+              "Name": "1066.png",
+              "Type": 2,
+              "OffsetX": 128,
+              "OffsetY": 0
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy5",
+          "Name": "enemy5",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy5/1085.png",
+              "Name": "1085.png",
+              "Type": 2,
+              "OffsetX": 0,
+              "OffsetY": 128
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy6",
+          "Name": "enemy6",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy6/1098.png",
+              "Name": "1098.png",
+              "Type": 2,
+              "OffsetX": 448,
+              "OffsetY": 0
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy7",
+          "Name": "enemy7",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy7/1111.png",
+              "Name": "1111.png",
+              "Type": 2,
+              "OffsetX": 320,
+              "OffsetY": 0
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/enemy/enemy8",
+          "Name": "enemy8",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/enemy/enemy8/2052.png",
+              "Name": "2052.png",
+              "Type": 2,
+              "OffsetX": 0,
+              "OffsetY": 64
+            }
+          ],
+          "X": 32,
+          "Y": 32,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        }
+      ]
+    },
+    {
+      "NodeId": "/Users/bytedance/Desktop/player",
+      "Name": "player",
+      "Type": 0,
+      "Child": [
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player1",
+          "Name": "player1",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player1/1.png",
+              "Name": "1.png",
+              "Type": 2,
+              "OffsetX": 64,
+              "OffsetY": 128
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player10",
+          "Name": "player10",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player10/5.png",
+              "Name": "5.png",
+              "Type": 2,
+              "OffsetX": 128,
+              "OffsetY": 128
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player11",
+          "Name": "player11",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player11/53.png",
+              "Name": "53.png",
+              "Type": 2,
+              "OffsetX": 384,
+              "OffsetY": 0
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player12",
+          "Name": "player12",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player12/65.png",
+              "Name": "65.png",
+              "Type": 2,
+              "OffsetX": 256,
+              "OffsetY": 0
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player2",
+          "Name": "player2",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player2/2.png",
+              "Name": "2.png",
+              "Type": 2,
+              "OffsetX": 128,
+              "OffsetY": 64
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player3",
+          "Name": "player3",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player3/4.png",
+              "Name": "4.png",
+              "Type": 2,
+              "OffsetX": 320,
+              "OffsetY": 64
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player4",
+          "Name": "player4",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player4/6.png",
+              "Name": "6.png",
+              "Type": 2,
+              "OffsetX": 192,
+              "OffsetY": 128
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player5",
+          "Name": "player5",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player5/42.png",
+              "Name": "42.png",
+              "Type": 2,
+              "OffsetX": 64,
+              "OffsetY": 64
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player6",
+          "Name": "player6",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player6/54.png",
+              "Name": "54.png",
+              "Type": 2,
+              "OffsetX": 192,
+              "OffsetY": 0
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player7",
+          "Name": "player7",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player7/62.png",
+              "Name": "62.png",
+              "Type": 2,
+              "OffsetX": 192,
+              "OffsetY": 64
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player8",
+          "Name": "player8",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player8/56.png",
+              "Name": "56.png",
+              "Type": 2,
+              "OffsetX": 0,
+              "OffsetY": 0
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        },
+        {
+          "NodeId": "/Users/bytedance/Desktop/player/player9",
+          "Name": "player9",
+          "Type": 1,
+          "Child": [
+            {
+              "NodeId": "/Users/bytedance/Desktop/player/player9/80.png",
+              "Name": "80.png",
+              "Type": 2,
+              "OffsetX": 384,
+              "OffsetY": 64
+            }
+          ],
+          "X": 0,
+          "Y": 0,
+          "Width": 64,
+          "Height": 64,
+          "Fps": 15
+        }
+      ]
+    }
+  ]
+}
